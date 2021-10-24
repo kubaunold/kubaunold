@@ -1,7 +1,12 @@
 ### Hi there, I'm Kuba 👋
+- 🌱 [October 2021] I’m currently working with C (embedded) and learning Python and C# (optimization, machine learning)
+- 🥅 2021 Goals: Finish Master's Thesis
 
-- 🌱 I’m currently learning mostly F# and Python
+
+[ARCHIVE]
+- 🌱 [July 2020] I’m currently learning mostly F# and Python
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 😄 Pronouns: speed/runner
 
 ### Connect with me on LinkedIn:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
